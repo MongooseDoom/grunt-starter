@@ -1,5 +1,7 @@
 # Starter for Grunt
 
+[![Dependency Status](https://www.versioneye.com/user/projects/55b79f7165376200200011d6/badge.svg?style=flat)](https://www.versioneye.com/user/projects/55b79f7165376200200011d6)
+
 This is my very basic setup with grunt. It compiles sass, watches js and css files, and uses browsersync.
 
 - [Grunt](http://gruntjs.com/)
